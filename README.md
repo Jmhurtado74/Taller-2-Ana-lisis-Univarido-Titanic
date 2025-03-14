@@ -1,2 +1,2 @@
-# Taller-2-Ana-lisis-Univarido-Titanic
+# Taller-2-Analisis-Univarido-Titanic
 Análsis de datos I
